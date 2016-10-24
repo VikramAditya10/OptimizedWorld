@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470466181 source:c:\users\vad\downloads\software\codeblock\project\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1470468158 source:c:\users\vad\downloads\software\codeblock\project\cproject\mergesort.c
+	<stdio.h>
+
